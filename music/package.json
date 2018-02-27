@@ -1,0 +1,16 @@
+{
+  "name": "music-component",
+  "version": "1.0.0",
+  "description": "A music player component that contains the basic function of the player. It can set the player width, height and autoplay or not.",
+  "main": "./src/Music.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "lrc",
+    "music-player"
+  ],
+  "author": "gongting",
+  "license": "ISC"
+}
